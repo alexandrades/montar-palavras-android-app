@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Monta Palavras</string>
+    <string name="digite_letras">Digite as letras disponíveis nesta jogada</string>
+    <string name="button_ok">OK</string>
+</resources>
